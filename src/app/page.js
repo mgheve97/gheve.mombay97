@@ -266,7 +266,7 @@ export default function Home() {
                   <p className='font-bold mt-4 md:mt-5 text-sm text-gray-400 dark:text-white'>HTML • CSS • Javascript • Reactjs • TailwindCSS</p>
                   <a target="_blank" href='https://gheve-mombay97.vercel.app/'>
                     <button className='flex flex-row text-white group hover:text-red-800 hover:bg-[#FCF7ED] hover:border-red-800 border-2  border-red-800 bg-red-800 font-semibold rounded px-5 py-[10px] mt-6'>           
-                      <span className='mr-4'>view github</span>
+                      <span className='mr-4'>Visit Page</span>
                       <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 24 24" className='fill-white  group-hover:fill-red-800 w-[30px] animate-bounce'><path d="m13 3 3.293 3.293-7 7 1.414 1.414 7-7L21 11V3z"></path><path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"></path></svg>
                     </button>
                   </a>
@@ -326,7 +326,7 @@ export default function Home() {
                 <p className='font-bold mt-4 md:mt-5 text-sm text-gray-400 dark:text-white'>Reactjs • CRUD • ReactMDE • Firebase Cloud</p>
                 <a target="_blank" href='https://noteapp-two-teal.vercel.app/'>
                   <button className='flex flex-row text-white group hover:text-red-800 hover:bg-[#FCF7ED] hover:border-red-800 border-2  border-red-800 bg-red-800 font-semibold rounded px-5 py-[10px] mt-6'>           
-                    <span className='mr-4'>view github</span>
+                    <span className='mr-4'>Visit Page</span>
                     <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 24 24" className='fill-white  group-hover:fill-red-800 w-[30px] animate-bounce'><path d="m13 3 3.293 3.293-7 7 1.414 1.414 7-7L21 11V3z"></path><path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"></path></svg>
                   </button>
                 </a>
