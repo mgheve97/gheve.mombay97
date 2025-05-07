@@ -267,7 +267,7 @@ export default function Home() {
           <div className='container mx-auto px-6 h-auto flex flex-col items-center pt-36'>
             <h3 className='text-green-800 dark:text-green-500 font-bold text-3xl sm:text-4xl'>Works</h3>
             <Projects seeMore={seeMore} />
-            <button className="" onClick={handleSeeMore}><p className="text-slate-700">----------------See {!seeMore ? "More" : "Less"}------------------</p></button>
+            <button className="" onClick={handleSeeMore}><p className="text-slate-700 dark:text-white">----------------See {!seeMore ? "More" : "Less"}------------------</p></button>
           </div>
         </section>
 
