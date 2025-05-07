@@ -22,8 +22,8 @@ export default function Home() {
           {/* {Navigation Button} */}
           <nav className="shadow fixed z-20 top-0 left-0 w-full dark:bg-slate-800 bg-slate-50">
             <div className="flex items-center justify-between mx-auto container px-6 py-4">
-              <div className="flex sm:items-center">
-                <i className="fa-solid fa-briefcase"></i>
+              <div className="flex items-center sm:items-center space-x-2">
+                <Image src="/favicon.ico" alt='image' width={50} height={50} className="rounded-full" priority={true}/>
                 <p className="text-green-800 dark:text-green-500 font-bold text-xl md:text-2xl">Portfolio</p>
               </div>
               <div className="flex sm:items-center">
