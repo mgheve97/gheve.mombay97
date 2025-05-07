@@ -1,0 +1,93 @@
+[
+    {
+        "id": 1,
+        "imageSrc": "/man-coding.svg",
+        "name": "To Do List (2025",
+        "type": "Personal Project",
+        "technologies": ["NextJS","React", "Javascript", "TailwindCSS", "CRUD"],
+        "url": "https://mgheve-todo-list.vercel.app/",
+        "linktype": "vercel"
+    },
+    {
+        "id": 2,
+        "imageSrc": "/man-coding.svg",
+        "name": "Bulletin Board (2025)",
+        "type": "Personal project",
+        "technologies": ["TypeScript", "CRUD", "NextJS"],
+        "url": "https://example.com/project-b",
+        "linktype": "vercel"
+    },
+    {
+        "id": 3,
+        "imageSrc": "/man-coding.svg",
+        "name": "User Authentication System (2025)",
+        "type": "Personal Project",
+        "technologies": ["NextJS", "TypeScript", "LocalStorage", "CRUD"],
+        "url": "https://user-authentication-app-beta.vercel.app/",
+        "linktype": "vercel"
+    },
+    {
+        "id": 4,
+        "imageSrc": "/man-coding.svg",
+        "name": "E-commerce Website (2025)",
+        "type": "Personal Project",
+        "technologies": ["NextJS", "React","JSX", "TailwindCSS", "Mongoose", "CRUD", "Clerk", "inngest"],
+        "url": "https://narziel-shop.vercel.app/",
+        "linktype": "vercel"
+    },
+    {
+        "id": 5,
+        "imageSrc": "/man-coding.svg",
+        "name": "NoteApp (2024)",
+        "type": "Personal Project",
+        "technologies": ["ReactJS", "TailwindCSS", "Firebase", "CRUD", "ReactMDEditor"],
+        "url": "https://noteapp-two-teal.vercel.app/",
+        "linktype": "vercel"
+    },
+    {
+        "id": 6,
+        "imageSrc":"/man-coding.svg",
+        "name": "Meme Generator (2024)",
+        "type": "Personal Project",
+        "technologies": ["ReactJS", "API"],
+        "url": "https://github.com/mgheve97/meme-generator",
+        "linktype": "github"
+    },
+    {
+        "id": 7,
+        "imageSrc":"/man-coding.svg",
+        "name": "Meme Generator (2024)",
+        "type": "Personal Project",
+        "technologies": ["ReactJS", "API"],
+        "url": "https://github.com/mgheve97/meme-generator",
+        "linktype": "github"
+    },
+    {
+        "id": 8,
+        "imageSrc":"/man-coding.svg",
+        "name": "Airbnb landing page (2024)",
+        "type": "Project course by Scrimba 💜",
+        "technologies": ["ReactJS", "SASS", "API"],
+        "url": "https://github.com/mgheve97/AirBnB-Project",
+        "linktype": "github"
+    },
+    {
+        "id": 9,
+        "imageSrc":"/man-coding.svg",
+        "name": "Chabot (2024)",
+        "type": "Personal Project",
+        "technologies": ["Python", "FastAPI", "API", "HTML", "CSS", "Javascript", "NLTK", "Keras"],
+        "url": "https://github.com/mgheve97/Maia-Chatbot",
+        "linktype": "github"
+    },
+    {
+        "id": 10,
+        "imageSrc":"/man-coding.svg",
+        "name": "FishCam (2022)",
+        "type": "Thesis Project - Lead Developer 💜",
+        "technologies": ["Java", "Android Studio", "DBMS"],
+        "url": "https://github.com/mgheve97/FishCam",
+        "linktype": "github"
+    }
+
+]
