@@ -5,9 +5,7 @@ import projects from '../data/projects.json'
 
 const Projects = ({seeMore}) => {
 
-    console.log("seeMore value:", seeMore);
     const displayedProjects = seeMore === true ? projects : projects.slice(0,3);
-    console.log("Displayed projects:", displayedProjects);
 
     return (  
     <div className='grid gap-10 lg:grid-cols-3 md:gap-20 mt-10 md:mt-20'>
