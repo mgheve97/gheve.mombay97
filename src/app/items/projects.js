@@ -18,8 +18,9 @@ const Projects = ({seeMore}) => {
                     src={project.imageSrc} 
                     alt={project.name} 
                     className="rounded"
-                    width={80}
-                    height={80}
+                    width={500}
+                    height={500}
+                    priority={true}
                     />
                 </div>
                 
